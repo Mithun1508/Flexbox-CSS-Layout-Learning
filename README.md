@@ -71,7 +71,8 @@ For creating the flexbox, we need to create a flex container along with setting 
 
 
 
-Flexbox Axes: While working with Flexbox, we deal with 2 axes:
+# Flexbox Axes: 
+While working with Flexbox, we deal with 2 axes:
 
 1) Main Axis
 
@@ -82,7 +83,8 @@ Main Axis:By default, the main axis runs from left to right.
 Main Start: The start of the main axis is called Main Start.
 Main Size: The length between Main Start and Main End is called Main Size.
 Main End: The endpoint is called Main End.
-Main And Cross Axis
+
+# Main And Cross Axis
 
 1)left to right:
 

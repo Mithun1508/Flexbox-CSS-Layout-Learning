@@ -57,7 +57,7 @@ For creating the flexbox, we need to create a flex container along with setting 
 </head>
  
 <body>
-    <h2>GeeksforGeeks</h2>
+    <h2></h2>
     <h4> Flexbox</h4>
     <div class="flex-container">
         <div>Item1</div>

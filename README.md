@@ -1,6 +1,6 @@
 # Learnt and implemented Flexbox By Myself 
 
-Do check it Out  https://mithun1508.github.io/csb-cfk70t/
+Do check out  https://csb-cfk70t.netlify.app/
 
 # Features of flexbox:
 
